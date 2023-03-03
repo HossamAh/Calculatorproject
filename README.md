@@ -19,8 +19,8 @@
 2. system is waiting for on button to be pressed to start receiving expresions.
 ![on screen](images/on.png)
 3. expressions example:
-![ADD](images/ADD.png)
-![MUL](images/MUL.png)
+![ADD](images/add.png)
+![MUL](images/mul.png)
 
 # Project software:
 - all drivers are implemented from scratch(KEYPAD, LCD).
